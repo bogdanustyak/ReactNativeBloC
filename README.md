@@ -13,3 +13,18 @@ More details on BloC can be found in a great article [here](https://www.didierbo
 # Reactive streams:
 - http://reactivex.io
 - https://rxjs-dev.firebaseapp.com/
+
+
+# React Native part (framework)
+To run the project:
+```
+yarn
+react-native run-ios
+```
+
+Linting is done with [EsLint](https://eslint.org/)
+
+to run lint:
+``` 
+npm run lint 
+```
