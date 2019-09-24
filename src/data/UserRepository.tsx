@@ -1,4 +1,3 @@
+export class UserRepository {}
 
-class UserRepository extends SimpleLoginUseCase{
-
-}
+export default UserRepository;

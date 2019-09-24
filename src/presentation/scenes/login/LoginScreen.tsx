@@ -1,139 +1,123 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import {
     SafeAreaView,
-    StyleSheet,
     ScrollView,
     View,
     StatusBar,
     TextInput,
     Button,
     ActivityIndicator,
-    Alert,
+    Alert
 } from 'react-native';
-import {
-    Colors,
-} from 'react-native/Libraries/NewAppScreen';
+import styles from './styles';
 import { LoginBloc } from './LoginBloc';
-import { Resource, ResourceState } from '../../Resource';
+import { Resource } from '../../Resource';
 import { User } from '../../../data/entities/EUser';
 import SimpleLoginUseCase from '../../../domain/SimpleLoginUseCase';
 import MkAuthService from '../../../data/mock/MkAuthService';
 
-interface LoginProps {
-    navigation: any,
+export interface LoginProps {
+    navigation: any;
     resourceValue: Resource<User>;
     email: string;
     password: string;
 }
 
-export default class LoginScreen extends React.PureComponent<LoginProps> {
+interface State {
+    resourceValue: Resource<User>;
+    email: string;
+    password: string;
+}
 
+export default class LoginScreen extends React.PureComponent<
+    LoginProps,
+    State
+> {
     loginBloc: LoginBloc = new LoginBloc(
-        new SimpleLoginUseCase(
-            new MkAuthService()
-        )
+        new SimpleLoginUseCase(new MkAuthService())
     );
-
-    state = {
-        resourceValue: this.loginBloc.initialState,
-        email: "email@gmail.com",
-        password: "password"
-    };
 
     constructor(props: Readonly<LoginProps>) {
         super(props);
+        this.state = {
+            resourceValue: this.loginBloc.initialState,
+            email: 'email@gmail.com',
+            password: 'password'
+        };
         this.form = this.form.bind(this);
-        this.loadingView = this.loadingView.bind(this);
         this.loginButton = this.loginButton.bind(this);
     }
 
     componentDidMount() {
+        const { navigation } = this.props;
         this.loginBloc.subject.subscribe({
-            next: (value) => {
-                switch (value.state) {
-                    case ResourceState.SUCCESS: {
-                        this.props.navigation.navigate('Home');
-                        break;
-                    }
-                    case ResourceState.FAILURE: {
-                        Alert.alert(
-                            'Error',
-                            value.message,
-                            [
-                                { text: 'OK', onPress: () => console.log('OK Pressed') },
-                            ],
-                            { cancelable: false },
-                        );
-                        break;
-                    }
+            next: (value: Resource<User>) => {
+                if (value.isSuccesfull()) {
+                    navigation.navigate('Home');
                 }
-                this.setState(
-                    { resourceValue: value }
-                )
+                if (value.isFailure()) {
+                    Alert.alert(
+                        'Error',
+                        value.resMessage,
+                        [
+                            {
+                                text: 'OK',
+                                onPress: () => {}
+                            }
+                        ],
+                        { cancelable: false }
+                    );
+                }
+                this.setState({ resourceValue: value });
             }
-        })
-    }
-
-    render() {
-        return <Fragment>
-            <StatusBar barStyle="dark-content" />
-            <SafeAreaView>
-                <ScrollView
-                    contentInsetAdjustmentBehavior="automatic">
-                    {this.form()}
-                </ScrollView>
-            </SafeAreaView>
-        </Fragment>;
+        });
     }
 
     form() {
-        return <View style={styles.form}>
-            <TextInput
-                style={styles.textInput}
-                onChangeText={text => this.setState({ email: text })}
-                placeholder={"Email"}
-                value={this.state.email}
-            />
-            <TextInput
-                style={styles.textInput}
-                onChangeText={text => this.setState({ password: text })}
-                placeholder={"Password"}
-                value={this.state.password}
-            />
-            {this.state.resourceValue.state == ResourceState.LOADING ? this.loadingView() : this.loginButton()}
-        </View>;
-    }
-
-    loadingView() {
-        return <View>
-            <ActivityIndicator size="large" color="#0000ff" />
-        </View>;
+        const { email, password, resourceValue } = this.state;
+        return (
+            <View style={styles.form}>
+                <TextInput
+                    style={styles.textInput}
+                    onChangeText={text => this.setState({ email: text })}
+                    placeholder="Email"
+                    value={email}
+                />
+                <TextInput
+                    style={styles.textInput}
+                    onChangeText={text => this.setState({ password: text })}
+                    placeholder="Password"
+                    value={password}
+                />
+                {resourceValue.isLoading() ? (
+                    <ActivityIndicator size="large" color="#0000ff" />
+                ) : (
+                    this.loginButton()
+                )}
+            </View>
+        );
     }
 
     loginButton() {
-        return <Button
-            title="Login"
-            onPress={() => this.loginBloc.login(
-                this.state.email,
-                this.state.password
-            )}
-        />;
+        const { email, password } = this.state;
+        return (
+            <Button
+                title="Login"
+                onPress={() => this.loginBloc.login(email, password)}
+            />
+        );
+    }
+
+    render() {
+        return (
+            <>
+                <StatusBar barStyle="dark-content" />
+                <SafeAreaView>
+                    <ScrollView contentInsetAdjustmentBehavior="automatic">
+                        {this.form()}
+                    </ScrollView>
+                </SafeAreaView>
+            </>
+        );
     }
 }
-
-const styles = StyleSheet.create({
-    form: {
-        padding: 40,
-        flexDirection: "column",
-        justifyContent: 'space-between',
-        flex: 1,
-    },
-    textInput: {
-        backgroundColor: Colors.white,
-        height: 40,
-        borderColor: 'gray',
-        borderWidth: 1,
-        paddingStart: 10,
-        paddingEnd: 10,
-    },
-});

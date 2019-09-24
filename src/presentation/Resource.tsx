@@ -6,9 +6,11 @@ export enum ResourceState {
 }
 
 export class Resource<T> {
-    data?: T;
-    message?: string;
-    state: ResourceState;
+    private data?: T;
+
+    private message?: string;
+
+    private state: ResourceState;
 
     constructor(state: ResourceState, message?: string, data?: T) {
         this.state = state;
@@ -17,7 +19,7 @@ export class Resource<T> {
     }
 
     static initial<T>(): Resource<T> {
-        return new Resource<T>(ResourceState.INITIAL)
+        return new Resource<T>(ResourceState.INITIAL);
     }
 
     static loading<T>(message: string): Resource<T> {
@@ -25,7 +27,7 @@ export class Resource<T> {
     }
 
     static sucess<T>(data: T): Resource<T> {
-        return new Resource<T>(ResourceState.SUCCESS, "success", data);
+        return new Resource<T>(ResourceState.SUCCESS, 'success', data);
     }
 
     static failure<T>(message: string): Resource<T> {
@@ -33,6 +35,29 @@ export class Resource<T> {
     }
 
     isLoading(): boolean {
-        return this.state == ResourceState.LOADING;
+        return this.state === ResourceState.LOADING;
+    }
+
+    isSuccesfull(): boolean {
+        return this.state === ResourceState.SUCCESS;
+    }
+
+    isFailure(): boolean {
+        return this.state === ResourceState.FAILURE;
+    }
+
+    get resMessage(): string {
+        if (this.message != null) {
+            return this.message;
+        }
+        return '';
+    }
+
+    get reData(): T | undefined {
+        return this.data;
+    }
+
+    get resState(): ResourceState {
+        return this.state;
     }
 }

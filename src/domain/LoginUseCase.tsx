@@ -1,8 +1,6 @@
-import { Observable } from "rxjs";
-import { User } from "../data/entities/EUser";
+import { Observable } from 'rxjs';
+import { User } from '../data/entities/EUser';
 
-interface LoginUseCase {
+export default interface LoginUseCase {
     login(email: string, password: string): Observable<User>;
 }
-
-export default LoginUseCase;

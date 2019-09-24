@@ -5,6 +5,39 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>81F0AE24-5526-46D3-A81A-9529F27130B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81F0AE24-5526-46D3-A81A-9529F27130B1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNativeBloc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNativeBloc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591047333.57921302</real>
+			<key>timeStoppedRecording</key>
+			<real>591047334.84275806</real>
+			<key>title</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>81F0AE24-5526-46D3-A81A-9529F27130B1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
