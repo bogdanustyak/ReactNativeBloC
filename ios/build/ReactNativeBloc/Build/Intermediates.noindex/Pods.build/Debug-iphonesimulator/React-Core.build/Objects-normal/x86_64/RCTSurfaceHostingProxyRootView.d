@@ -7,6 +7,8 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
@@ -29,5 +31,5 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Base/Surface/RCTSurface.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGMacros.h
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h

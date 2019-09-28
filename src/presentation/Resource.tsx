@@ -38,7 +38,7 @@ export class Resource<T> {
         return this.state === ResourceState.LOADING;
     }
 
-    isSuccesfull(): boolean {
+    isSuccessful(): boolean {
         return this.state === ResourceState.SUCCESS;
     }
 

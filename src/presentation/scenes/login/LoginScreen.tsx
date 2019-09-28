@@ -52,7 +52,7 @@ export default class LoginScreen extends React.PureComponent<
         const { navigation } = this.props;
         this.loginBloc.subject.subscribe({
             next: (value: Resource<User>) => {
-                if (value.isSuccesfull()) {
+                if (value.isSuccessful()) {
                     navigation.navigate('Home');
                 }
                 if (value.isFailure()) {
@@ -75,6 +75,7 @@ export default class LoginScreen extends React.PureComponent<
 
     form() {
         const { email, password, resourceValue } = this.state;
+        const { navigation } = this.props.navigation;
         return (
             <View style={styles.form}>
                 <TextInput
@@ -88,6 +89,10 @@ export default class LoginScreen extends React.PureComponent<
                     onChangeText={text => this.setState({ password: text })}
                     placeholder="Password"
                     value={password}
+                />
+                <Button
+                    title="Sign Up"
+                    onPress={() => navigation.navigate('SignUp')}
                 />
                 {resourceValue.isLoading() ? (
                     <ActivityIndicator size="large" color="#0000ff" />

@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/RNNComponentOptions.m \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/ReactNativeNavigation/ReactNativeNavigation-prefix.pch \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/RNNComponentOptions.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/RNNOptions.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/BoolParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Bool.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Param.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/TextParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Text.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/NumberParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Number.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/DictionaryParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Dictionary.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/ColorParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Color.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/ImageParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Image.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/IntNumberParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/IntNumber.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/DoubleParser.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native-navigation/lib/ios/Double.h

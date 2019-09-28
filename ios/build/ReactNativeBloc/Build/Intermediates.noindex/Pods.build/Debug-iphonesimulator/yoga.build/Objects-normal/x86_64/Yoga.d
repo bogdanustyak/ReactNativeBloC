@@ -1,6 +1,6 @@
 dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/yoga/yoga-prefix.pch \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/Yoga/Yoga-prefix.pch \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
@@ -8,13 +8,12 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/log.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/Bitfield.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/CompactValue.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGConfig.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGMarker.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/event/event.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/instrumentation.h
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/yoga/yoga/event/event.h

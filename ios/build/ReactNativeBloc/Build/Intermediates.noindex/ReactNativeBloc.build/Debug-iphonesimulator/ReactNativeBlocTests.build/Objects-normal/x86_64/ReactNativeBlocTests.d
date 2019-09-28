@@ -3,8 +3,8 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \

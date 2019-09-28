@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/yoga/yoga-dummy.m \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/yoga/yoga-prefix.pch
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/Yoga/Yoga-dummy.m \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/Yoga/Yoga-prefix.pch

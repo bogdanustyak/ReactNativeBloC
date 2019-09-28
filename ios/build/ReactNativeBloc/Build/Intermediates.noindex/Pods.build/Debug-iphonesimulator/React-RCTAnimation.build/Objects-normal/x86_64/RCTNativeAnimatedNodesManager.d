@@ -1,9 +1,11 @@
 dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -20,28 +22,28 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/Yoga.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGMacros.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h

@@ -1,11 +1,13 @@
 dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.m \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTSurfacePresenterStub.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
@@ -22,13 +24,13 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/Yoga.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGMacros.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationUtils.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h

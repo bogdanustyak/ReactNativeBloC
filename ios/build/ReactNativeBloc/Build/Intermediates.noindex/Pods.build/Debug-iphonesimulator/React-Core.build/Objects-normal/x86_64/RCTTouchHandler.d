@@ -5,6 +5,8 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
@@ -27,10 +29,10 @@ dependencies: \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/Yoga.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGMacros.h \
-  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/UIView+React.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
   /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/React/Base/RCTUtils.h \

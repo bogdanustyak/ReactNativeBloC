@@ -4,6 +4,7 @@
     "private": true,
     "scripts": {
         "start": "react-native start",
+        "run-ios": "react-native run-ios --simulator=\"iPhone 11 Pro\"",
         "test": "jest",
         "lint": "tsc --noEmit && eslint --ext .js,.jsx,.ts,.tsx ./",
         "prettier:write": "npx prettier --write **/*.{js,jsx,ts,tsx,json} && npx prettier --write *.{js,jsx,ts,tsx,json}"
@@ -14,8 +15,8 @@
         "@types/react-dom": "^16.9.0",
         "@types/react-native": "^0.60.15",
         "@types/react-test-renderer": "^16.9.0",
-        "react": "16.8.6",
-        "react-native": "0.60.5",
+        "react": "16.9.0",
+        "react-native": "0.61.1",
         "react-native-gesture-handler": "^1.4.1",
         "react-native-navigation": "^2.27.9",
         "react-navigation": "^4.0.7",

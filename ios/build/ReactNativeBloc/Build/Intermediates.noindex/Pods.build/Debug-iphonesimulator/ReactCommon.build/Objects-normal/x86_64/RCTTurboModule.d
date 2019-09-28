@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/Optional.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/Portability.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/CPortability.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/Traits.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/Utility.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/bogdanustyak/Developer/react_native/ReactNativeBloc/ios/Pods/Folly/folly/CppAttributes.h

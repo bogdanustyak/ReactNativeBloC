@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>38E1F5F4-34E9-4A2D-A2B2-29EBFA81D95D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38E1F5F4-34E9-4A2D-A2B2-29EBFA81D95D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNativeBloc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNativeBloc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591273418.01521099</real>
+			<key>timeStoppedRecording</key>
+			<real>591273421.15543997</real>
+			<key>title</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>38E1F5F4-34E9-4A2D-A2B2-29EBFA81D95D</string>
+		</dict>
+		<key>39E30616-FF3F-4949-816D-2D3DB886A74F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39E30616-FF3F-4949-816D-2D3DB886A74F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNativeBloc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNativeBloc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591280060.30591702</real>
+			<key>timeStoppedRecording</key>
+			<real>591280061.63008201</real>
+			<key>title</key>
+			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>39E30616-FF3F-4949-816D-2D3DB886A74F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

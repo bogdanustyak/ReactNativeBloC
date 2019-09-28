@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>81F0AE24-5526-46D3-A81A-9529F27130B1</key>
+		<key>4C853986-3897-4884-A4A5-E7DE95086EBA</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>81F0AE24-5526-46D3-A81A-9529F27130B1.xcactivitylog</string>
+			<string>4C853986-3897-4884-A4A5-E7DE95086EBA.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>ReactNativeBloc project</string>
@@ -30,13 +30,13 @@
 			<key>signature</key>
 			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>591047333.57921302</real>
+			<real>591280341.85764694</real>
 			<key>timeStoppedRecording</key>
-			<real>591047334.84275806</real>
+			<real>591280343.22227299</real>
 			<key>title</key>
 			<string>Building workspace ReactNativeBloc with scheme ReactNativeBloc and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>81F0AE24-5526-46D3-A81A-9529F27130B1</string>
+			<string>4C853986-3897-4884-A4A5-E7DE95086EBA</string>
 		</dict>
 	</dict>
 </dict>

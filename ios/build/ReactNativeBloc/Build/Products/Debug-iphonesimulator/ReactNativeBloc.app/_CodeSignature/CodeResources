@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		wPkEbdL0C8Q9eNaabnbCiyJcuZk=
+		AStfTSngYsbXcjJxBAmjBbDCpeg=
+		</data>
+		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
+		<data>
+		5MBMNG/kh8UG/ShBie+IS+7idQ4=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -71,7 +75,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KlkI08BnIfmInsfPkIJpF+e0kq4=
+		YScT8c/5NkaDN6RbXmsZMFxLTtQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -100,15 +104,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wPkEbdL0C8Q9eNaabnbCiyJcuZk=
+			AStfTSngYsbXcjJxBAmjBbDCpeg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dJyU4ua6TYvxNCXBIQzz2dy26ozL2+L805SKDiqMqFc=
+			bRaD9bBHKCdm4t44p4lV2si2DGNqmpyXB3k24qegp9E=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5MBMNG/kh8UG/ShBie+IS+7idQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			PwJjzQv8SjNRrRJ3yIxYIGEkEan4GYPzKuHTZ+Da/2I=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
