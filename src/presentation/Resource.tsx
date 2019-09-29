@@ -6,11 +6,9 @@ export enum ResourceState {
 }
 
 export class Resource<T> {
-    private data?: T;
-
-    private message?: string;
-
-    private state: ResourceState;
+    private readonly data?: T;
+    private readonly message?: string;
+    private readonly state: ResourceState;
 
     constructor(state: ResourceState, message?: string, data?: T) {
         this.state = state;

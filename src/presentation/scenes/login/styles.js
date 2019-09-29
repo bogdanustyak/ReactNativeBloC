@@ -1,12 +1,27 @@
-import { StyleSheet } from 'react-native';
-import { Colors } from 'react-native/Libraries/NewAppScreen';
+import {StyleSheet} from 'react-native';
+import {Colors} from 'react-native/Libraries/NewAppScreen';
 
 const CommonStyles = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center"
+    },
+    logo: {
+        flex: 0.25,
+        backgroundColor: Colors.blue,
+        width: 400,
+        height: 400
+    },
     form: {
-        padding: 40,
+        flex: 0.5,
+        paddingTop: 20,
+        paddingBottom: 20,
+        paddingStart: 10,
+        paddingEnd: 10,
         flexDirection: 'column',
         justifyContent: 'space-between',
-        flex: 1
+        backgroundColor: Colors.white,
     },
     textInput: {
         backgroundColor: Colors.white,

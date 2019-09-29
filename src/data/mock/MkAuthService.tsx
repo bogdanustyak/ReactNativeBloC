@@ -9,6 +9,10 @@ class MkAuthService implements AuthService {
         }
         return throwError('Invalid credentials!');
     }
+    
+    signUp(email: string, firstName: string, lastName: string, password: string): Observable<User> {
+        throw new Error("Method not implemented.");
+    }
 }
 
 export default MkAuthService;
